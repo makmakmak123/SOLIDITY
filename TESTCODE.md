@@ -33,7 +33,7 @@ The `burn` function allows you to destroy tokens from an address. It takes two p
 
 The function includes a check to ensure that the balance of the address is greater than or equal to the number of tokens to be burned.
 
-## Smart Contract Code
+## TEST_Code
 
 ```solidity
 // SPDX-License-Identifier: MIT
